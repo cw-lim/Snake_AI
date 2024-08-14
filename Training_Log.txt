@@ -1,0 +1,329 @@
+Episode: 0, Total Reward: 845.6, Epsilon: 0.8000, Best Score: 0
+Episode 0, Loss: 19.0106
+New best score: 1. Model saved to best_snake_dqn_model.pth
+New best score: 2. Model saved to best_snake_dqn_model.pth
+Episode 1000, Loss: 84.2345
+Episode 2000, Loss: 246.4356
+Episode 3000, Loss: 374.7565
+Episode 4000, Loss: 145.6884
+Episode: 5000, Total Reward: 67.1, Epsilon: 0.7610, Best Score: 2
+Episode 5000, Loss: 3481.3677
+Episode 6000, Loss: 159.1210
+Episode 7000, Loss: 48.8043
+Episode 8000, Loss: 114.0571
+Episode 9000, Loss: 269.8821
+Episode: 10000, Total Reward: 76.30000000000001, Epsilon: 0.7239, Best Score: 2
+Episode 10000, Loss: 156.9140
+New best score: 3. Model saved to best_snake_dqn_model.pth
+Episode 11000, Loss: 490.3502
+Episode 12000, Loss: 99.3214
+Episode 13000, Loss: 77.1249
+Episode 14000, Loss: 59.5689
+Episode: 15000, Total Reward: 131.8, Epsilon: 0.6886, Best Score: 3
+Episode 15000, Loss: 44.4207
+Episode 16000, Loss: 18.9675
+New best score: 4. Model saved to best_snake_dqn_model.pth
+Episode 17000, Loss: 28.6766
+Episode 18000, Loss: 52.5598
+Episode 19000, Loss: 26.6857
+Episode: 20000, Total Reward: 437.8, Epsilon: 0.6550, Best Score: 4
+Episode 20000, Loss: 48.6297
+Episode 21000, Loss: 35.5867
+Episode 22000, Loss: 27.9029
+New best score: 6. Model saved to best_snake_dqn_model.pth
+Episode 23000, Loss: 56.4602
+Episode 24000, Loss: 40.8699
+New best score: 8. Model saved to best_snake_dqn_model.pth
+Episode: 25000, Total Reward: 587.9, Epsilon: 0.6230, Best Score: 8
+Episode 25000, Loss: 54.3100
+Episode 26000, Loss: 169.5467
+Episode 27000, Loss: 92.2471
+Episode 28000, Loss: 35.9949
+Episode 29000, Loss: 126.1464
+Episode: 30000, Total Reward: 399.8, Epsilon: 0.5927, Best Score: 8
+Episode 30000, Loss: 190.3044
+Episode 31000, Loss: 657.2988
+Episode 32000, Loss: 593.8550
+Episode 33000, Loss: 186.9085
+Episode 34000, Loss: 316.6261
+Episode: 35000, Total Reward: 568.0, Epsilon: 0.5637, Best Score: 8
+Episode 35000, Loss: 240.8731
+Episode 36000, Loss: 492.8415
+Episode 37000, Loss: 502.2567
+Episode 38000, Loss: 152.0900
+Episode 39000, Loss: 357.0692
+Episode 39890 skipped due to being stuck.
+Episode 39960 skipped due to being stuck.
+Episode: 40000, Total Reward: 555.6, Epsilon: 0.5363, Best Score: 8
+Episode 40000, Loss: 4321.0547
+Episode 40030 skipped due to being stuck.
+Episode 41000, Loss: 6621.0850
+Episode 42000, Loss: 2739.1606
+Episode 43000, Loss: 6414.7373
+Episode 43420 skipped due to being stuck.
+Episode 44000, Loss: 3608.4402
+Training has stagnated for 20000 episodes. Consider adjusting training parameters.
+Episode: 45000, Total Reward: 209.29999999999998, Epsilon: 0.5101, Best Score: 8
+Episode 45000, Loss: 4910.4639
+Episode 46000, Loss: 386557.4062
+Episode 47000, Loss: 6123.5908
+Episode 47210 skipped due to being stuck.
+Episode 48000, Loss: 6736.9941
+Episode 49000, Loss: 5884.0010
+Episode 49640 skipped due to being stuck.
+Episode: 50000, Total Reward: 723.3000000000001, Epsilon: 0.4853, Best Score: 8
+Episode 50000, Loss: 1607.8857
+Episode 50800 skipped due to being stuck.
+Episode 50990 skipped due to being stuck.
+Episode 51000, Loss: 8710.2070
+Episode 51560 skipped due to being stuck.
+Episode 52000, Loss: 4638.7783
+Episode 53000, Loss: 6732.5098
+Episode 54000, Loss: 3652.3618
+Episode 54460 skipped due to being stuck.
+Episode: 55000, Total Reward: 766.5, Epsilon: 0.4616, Best Score: 8
+Episode 55000, Loss: 2218.4724
+Episode 56000, Loss: 4741.5083
+Episode 57000, Loss: 8462.1328
+New best score: 10. Model saved to best_snake_dqn_model.pth
+Episode 58000, Loss: 3417.7485
+Episode 59000, Loss: 2361.1021
+Episode: 60000, Total Reward: 554.4, Epsilon: 0.4391, Best Score: 10
+Episode 60000, Loss: 2279.9324
+Episode 61000, Loss: 940.7410
+Episode 62000, Loss: 1936.3093
+Episode 63000, Loss: 194.4570
+Episode 64000, Loss: 4005.4270
+Episode: 65000, Total Reward: 1310.1, Epsilon: 0.4177, Best Score: 10
+Episode 65000, Loss: 122.3190
+Episode 66000, Loss: 265.2775
+Episode 67000, Loss: 126.8266
+Episode 68000, Loss: 490.0644
+Episode 69000, Loss: 419.0049
+Episode: 70000, Total Reward: 598.9, Epsilon: 0.3973, Best Score: 10
+Episode 70000, Loss: 341.0134
+New best score: 11. Model saved to best_snake_dqn_model.pth
+Episode 71000, Loss: 127.1838
+Episode 72000, Loss: 383.5125
+Episode 73000, Loss: 250.6491
+Episode 74000, Loss: 3975.7163
+Episode: 75000, Total Reward: 1240.0, Epsilon: 0.3779, Best Score: 11
+Episode 75000, Loss: 318.4658
+Episode 76000, Loss: 212.9364
+Episode 77000, Loss: 201.6908
+Episode 78000, Loss: 128.0854
+Episode 79000, Loss: 10.0269
+Episode: 80000, Total Reward: 231.29999999999998, Epsilon: 0.3595, Best Score: 11
+Episode 80000, Loss: 29.3913
+Episode 81000, Loss: 12.3973
+Episode 82000, Loss: 25.0761
+Episode 83000, Loss: 11.1076
+New best score: 13. Model saved to best_snake_dqn_model.pth
+Episode 84000, Loss: 126.8895
+Episode: 85000, Total Reward: 856.4000000000001, Epsilon: 0.3420, Best Score: 13
+Episode 85000, Loss: 13.4868
+Episode 86000, Loss: 119.0687
+Episode 87000, Loss: 7.6996
+Episode 88000, Loss: 42.0084
+New best score: 14. Model saved to best_snake_dqn_model.pth
+Episode 89000, Loss: 17.0526
+Episode: 90000, Total Reward: 1014.6000000000001, Epsilon: 0.3253, Best Score: 14
+Episode 90000, Loss: 10.8336
+Episode 91000, Loss: 36.0116
+Episode 92000, Loss: 51.3673
+New best score: 15. Model saved to best_snake_dqn_model.pth
+New best score: 18. Model saved to best_snake_dqn_model.pth
+Episode 93000, Loss: 53.5671
+Episode 94000, Loss: 31.5489
+Episode: 95000, Total Reward: 236.10000000000002, Epsilon: 0.3094, Best Score: 18
+Episode 95000, Loss: 114.9880
+Episode 96000, Loss: 5.0543
+Episode 97000, Loss: 82.9392
+Episode 98000, Loss: 129.1378
+Episode 99000, Loss: 8.7181
+Episode: 100000, Total Reward: 427.2, Epsilon: 0.2943, Best Score: 18
+Episode 100000, Loss: 22.5460
+Episode 101000, Loss: 5.8180
+Episode 102000, Loss: 63.0830
+Episode 103000, Loss: 29.0585
+Episode 104000, Loss: 98.9318
+Episode: 105000, Total Reward: 1505.8, Epsilon: 0.2800, Best Score: 18
+Episode 105000, Loss: 8.0460
+Episode 106000, Loss: 75.2443
+Episode 107000, Loss: 11.3708
+Episode 108000, Loss: 7.2827
+Episode 109000, Loss: 81.7966
+Episode: 110000, Total Reward: 165.49999999999997, Epsilon: 0.2663, Best Score: 18
+Episode 110000, Loss: 98.2249
+New best score: 20. Model saved to best_snake_dqn_model.pth
+Episode 111000, Loss: 6.6250
+Episode 112000, Loss: 6.9390
+Episode 113000, Loss: 50.3750
+Episode 114000, Loss: 76.5847
+Episode: 115000, Total Reward: 738.5000000000001, Epsilon: 0.2533, Best Score: 20
+Episode 115000, Loss: 85.6414
+Episode 116000, Loss: 6.1135
+Episode 117000, Loss: 25.0612
+Episode 118000, Loss: 17.6453
+Episode 119000, Loss: 9.9511
+Episode: 120000, Total Reward: 298.5, Epsilon: 0.2410, Best Score: 20
+Episode 120000, Loss: 96.2318
+Episode 121000, Loss: 20.8658
+Episode 122000, Loss: 6.2564
+Episode 123000, Loss: 12.7608
+Episode 124000, Loss: 126.2176
+New best score: 22. Model saved to best_snake_dqn_model.pth
+Episode: 125000, Total Reward: 1058.0, Epsilon: 0.2292, Best Score: 22
+Episode 125000, Loss: 80.4565
+Episode 126000, Loss: 54.1290
+Episode 127000, Loss: 7.7329
+Episode 128000, Loss: 52.1620
+Episode 129000, Loss: 55.2986
+New best score: 24. Model saved to best_snake_dqn_model.pth
+Episode: 130000, Total Reward: 614.8, Epsilon: 0.2180, Best Score: 24
+Episode 130000, Loss: 28.3113
+Episode 131000, Loss: 76.2362
+Episode 132000, Loss: 7.8362
+Episode 133000, Loss: 10.9098
+Episode 134000, Loss: 93.0737
+Episode: 135000, Total Reward: 1659.9999999999995, Epsilon: 0.2074, Best Score: 24
+Episode 135000, Loss: 21.9169
+Episode 136000, Loss: 20.3252
+Episode 137000, Loss: 73.1973
+Episode 138000, Loss: 11.4739
+Episode 139000, Loss: 57.5831
+Episode: 140000, Total Reward: 1096.3, Epsilon: 0.1973, Best Score: 24
+Episode 140000, Loss: 44.5024
+Episode 141000, Loss: 130.2751
+Episode 142000, Loss: 22.8851
+Episode 143000, Loss: 29.3950
+New best score: 26. Model saved to best_snake_dqn_model.pth
+Episode 144000, Loss: 9.1051
+Episode: 145000, Total Reward: 402.49999999999994, Epsilon: 0.1877, Best Score: 26
+Episode 145000, Loss: 67.4387
+New best score: 28. Model saved to best_snake_dqn_model.pth
+Episode 146000, Loss: 14.3588
+Episode 147000, Loss: 73.7893
+Episode 148000, Loss: 25.5642
+Episode 149000, Loss: 54.3203
+Episode: 150000, Total Reward: 1900.6999999999994, Epsilon: 0.1785, Best Score: 28
+Episode 150000, Loss: 34.5782
+Episode 151000, Loss: 54.3593
+Episode 152000, Loss: 34.8878
+Episode 153000, Loss: 55.1830
+Episode 154000, Loss: 86.7862
+Episode: 155000, Total Reward: 568.6999999999999, Epsilon: 0.1698, Best Score: 28
+Episode 155000, Loss: 7.0022
+Episode 156000, Loss: 25.6149
+Episode 157000, Loss: 20.9382
+Episode 158000, Loss: 78.0136
+Episode 159000, Loss: 73.0851
+Episode: 160000, Total Reward: 513.5, Epsilon: 0.1615, Best Score: 28
+Episode 160000, Loss: 13.5296
+New best score: 35. Model saved to best_snake_dqn_model.pth
+Episode 161000, Loss: 60.9199
+Episode 162000, Loss: 33.4688
+Episode 163000, Loss: 12.1507
+Episode 164000, Loss: 31.3268
+Episode: 165000, Total Reward: 170.69999999999996, Epsilon: 0.1537, Best Score: 35
+Episode 165000, Loss: 37.3926
+Episode 166000, Loss: 18.8638
+Episode 167000, Loss: 36.6498
+Episode 168000, Loss: 167.1365
+Episode 169000, Loss: 8.9394
+Episode: 170000, Total Reward: 2358.599999999999, Epsilon: 0.1462, Best Score: 35
+Episode 170000, Loss: 33.8251
+Episode 171000, Loss: 140.4825
+Episode 172000, Loss: 7.5472
+Episode 173000, Loss: 6.4910
+Episode 174000, Loss: 25.7548
+Episode: 175000, Total Reward: 1898.6999999999994, Epsilon: 0.1390, Best Score: 35
+Episode 175000, Loss: 34.3837
+New best score: 38. Model saved to best_snake_dqn_model.pth
+Episode 176000, Loss: 75.8479
+Episode 177000, Loss: 38.9282
+Episode 178000, Loss: 32.0210
+Episode 179000, Loss: 31.9412
+Episode: 180000, Total Reward: 1669.8999999999996, Epsilon: 0.1323, Best Score: 38
+Episode 180000, Loss: 20.7283
+Episode 181000, Loss: 96.7405
+New best score: 44. Model saved to best_snake_dqn_model.pth
+Episode 182000, Loss: 13.2749
+Episode 183000, Loss: 131.2318
+Episode 184000, Loss: 28.9640
+Episode: 185000, Total Reward: 1103.3, Epsilon: 0.1258, Best Score: 44
+Episode 185000, Loss: 15.7719
+Episode 186000, Loss: 58.0080
+Episode 187000, Loss: 29.9044
+Episode 188000, Loss: 7.8020
+Episode 189000, Loss: 48.6070
+Episode: 190000, Total Reward: 1972.8999999999994, Epsilon: 0.1197, Best Score: 44
+Episode 190000, Loss: 70.5675
+Episode 191000, Loss: 74.1701
+Episode 192000, Loss: 20.9149
+Episode 193000, Loss: 10.9951
+Episode 194000, Loss: 10.5945
+Episode: 195000, Total Reward: 1399.1999999999998, Epsilon: 0.1138, Best Score: 44
+Episode 195000, Loss: 18.0898
+Episode 196000, Loss: 23.6340
+Episode 197000, Loss: 11.8777
+Episode 198000, Loss: 24.5423
+Episode 199000, Loss: 10.6878
+Episode: 200000, Total Reward: 915.5000000000002, Epsilon: 0.1083, Best Score: 44
+Episode 200000, Loss: 89.1807
+Episode 201000, Loss: 55.6590
+Training has stagnated for 20000 episodes. Consider adjusting training parameters.
+Episode 202000, Loss: 43.1592
+Episode 203000, Loss: 22.6287
+Episode 204000, Loss: 256.4801
+Episode: 205000, Total Reward: 866.6000000000001, Epsilon: 0.1030, Best Score: 44
+Episode 205000, Loss: 13.9660
+Episode 206000, Loss: 78.9164
+Episode 207000, Loss: 66.3793
+Episode 208000, Loss: 32.1228
+Episode 209000, Loss: 149.1684
+Episode: 210000, Total Reward: 2551.4999999999986, Epsilon: 0.1000, Best Score: 44
+Episode 210000, Loss: 55.6770
+Episode 211000, Loss: 56.9155
+Episode 212000, Loss: 42.6228
+Episode 213000, Loss: 45.5110
+Episode 214000, Loss: 21.8732
+Episode: 215000, Total Reward: 1176.4, Epsilon: 0.1000, Best Score: 44
+Episode 215000, Loss: 62.5191
+Episode 216000, Loss: 130.8710
+Episode 217000, Loss: 40.5405
+Episode 218000, Loss: 70.0980
+Episode 219000, Loss: 40.0784
+Episode 219860 skipped due to being stuck.
+Episode: 220000, Total Reward: 642.9, Epsilon: 0.1000, Best Score: 44
+Episode 220000, Loss: 39913.0508
+Episode 220900 skipped due to being stuck.
+Episode 221000, Loss: 9184.0156
+Episode 221310 skipped due to being stuck.
+Training has stagnated for 20000 episodes. Consider adjusting training parameters.
+Episode 222000, Loss: 16139.8955
+Episode 222870 skipped due to being stuck.
+Episode 223000, Loss: 11689.1670
+Episode 223080 skipped due to being stuck.
+Episode 223150 skipped due to being stuck.
+Episode 223320 skipped due to being stuck.
+Episode 223350 skipped due to being stuck.
+Episode 223620 skipped due to being stuck.
+Episode 223810 skipped due to being stuck.
+Episode 223960 skipped due to being stuck.
+Episode 224000, Loss: 33922.7852
+Episode 224040 skipped due to being stuck.
+Episode 224070 skipped due to being stuck.
+Episode 224150 skipped due to being stuck.
+Episode 224660 skipped due to being stuck.
+Episode 224830 skipped due to being stuck.
+Episode: 225000, Total Reward: 101.5, Epsilon: 0.1000, Best Score: 44
+Episode 225000, Loss: 26243.1699
+Episode 225040 skipped due to being stuck.
+Episode 225100 skipped due to being stuck.
+Episode 225110 skipped due to being stuck.
+Episode 225120 skipped due to being stuck.
+Episode 225320 skipped due to being stuck.
+Episode 225830 skipped due to being stuck.
+Episode 226000, Loss: 25877.1992
+Episode 226440 skipped due to being stuck.

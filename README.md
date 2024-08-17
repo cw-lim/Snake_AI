@@ -25,16 +25,27 @@ You process up to 50 body segments, which results in
 Adding these together:
 
 Snake head position: 2
+
 Food position: 2
+
 Direction: 2
+
 Distance change: 1
+
 Distances to walls: 4
+
 Snake length: 1
+
 Average distance to food: 1
+
 Steps since last food: 1
+
 Current score: 1
+
 Relative angle to food: 1
+
 Body segment information: 200
+
 Total input dimensions = 216
 
 Thus, the input dimension for your DQN model is 216.
